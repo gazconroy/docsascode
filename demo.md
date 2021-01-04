@@ -80,7 +80,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## And finally!
 
 * Credit anyone whose code was used
 * Inspiration
