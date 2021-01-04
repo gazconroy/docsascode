@@ -1,4 +1,4 @@
-# Boomerang
+# Boomerang (code name - Bananarama)
 
 One paragraph of project description goes here
 
