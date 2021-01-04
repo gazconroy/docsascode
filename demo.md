@@ -1,4 +1,4 @@
-# Project title
+# Bananarama
 
 One paragraph of project description goes here
 
