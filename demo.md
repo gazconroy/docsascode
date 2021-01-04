@@ -1,8 +1,8 @@
-# Project Title
+# Project title
 
-One Paragraph of project description goes here
+One paragraph of project description goes here
 
-## Getting Started
+## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -16,7 +16,7 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development environment running
+A step-by-step series of examples that tell you how to get a development environment running
 
 Say what the step will be
 
@@ -59,7 +59,7 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [Maven](https://maven.apache.org/) - Dependency management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
