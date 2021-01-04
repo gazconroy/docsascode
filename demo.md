@@ -1,4 +1,4 @@
-# Project title
+# Boomerang
 
 One paragraph of project description goes here
 
