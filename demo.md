@@ -88,3 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * And so on
 
 I hope I don't get disturbed
+
+From the command line
