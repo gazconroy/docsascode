@@ -1,4 +1,4 @@
-# Pull request test
+# Pull request test (for the conflict-test branch)
 # Boomerang (code name - Bananarama)
 
 One paragraph of project description goes here
