@@ -1,4 +1,4 @@
-# Pull request test
+# Rebase test
 # Boomerang (code name - Bananarama)
 
 One paragraph of project description goes here
